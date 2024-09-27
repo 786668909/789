@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+
+<body>
+
+<div  id="container" style="height:100vh;width:100%">
+
+<div id="header" style="background-color:#ADD8E6;">
+<h1 style="margin-bottom:0;text-align:center">信息渠道互通共享平台</h1></div>
+
+<div id="menu" style="background-color:#90EE90;height:30%;width:50%;float:left;text-align:center">
+<b>科研</b><br>
+<body>
+
+</body>
+</div>
+
+<div id="menu" style="background-color:#FFFFE0;height:30%;width:50%;float:left;text-align:center">
+<b>市场</b><br>
+<body>
+
+</body>
+</div>
+
+<div id="menu" style="background-color:#FFD700;height:30%;width:50%;float:left;text-align:center">
+<b>业务</b><br>
+<body>
+
+</body>
+</div>
+
+<div id="menu" style="background-color:#E6E6FA;height:30%;width:50%;float:left;text-align:center">
+<b>产业/政策</b><br>
+<body>
+
+</body>
+</div>
+
+<div id="content" style="background-color:#DCDCDC;height:30%;width:100%;float:left;text-align:center">
+其他</div>
+<body>
+
+</body>
+</div>
+ 
+</body>
+</html>
